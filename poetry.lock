@@ -2122,14 +2122,14 @@ types-urllib3 = "*"
 
 [[package]]
 name = "types-setuptools"
-version = "67.7.0.1"
+version = "67.8.0.0"
 description = "Typing stubs for setuptools"
 category = "dev"
 optional = false
 python-versions = "*"
 files = [
-    {file = "types-setuptools-67.7.0.1.tar.gz", hash = "sha256:980a2651b2b019809817e1585071596b87fbafcb54433ff3b12445461db23790"},
-    {file = "types_setuptools-67.7.0.1-py3-none-any.whl", hash = "sha256:471a4ecf6984ffada63ffcfa884bfcb62718bd2d1a1acf8ee5513ec99789ed5e"},
+    {file = "types-setuptools-67.8.0.0.tar.gz", hash = "sha256:95c9ed61871d6c0e258433373a4e1753c0a7c3627a46f4d4058c7b5a08ab844f"},
+    {file = "types_setuptools-67.8.0.0-py3-none-any.whl", hash = "sha256:6df73340d96b238a4188b7b7668814b37e8018168aef1eef94a3b1872e3f60ff"},
 ]
 
 [[package]]
@@ -2312,4 +2312,4 @@ testing = ["big-O", "flake8 (<5)", "jaraco.functools", "jaraco.itertools", "more
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.7.0"
-content-hash = "732fd048ef054a5c4734075b7669bd0f2ab6b15d75ba5c1197b864e1bbcb488f"
+content-hash = "3a985f38bef96e286e927a4d7ec8579bd84e8cb89ca6d9de86b01619b9f6c1c9"
